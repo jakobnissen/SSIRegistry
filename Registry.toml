@@ -3,4 +3,5 @@ uuid = "c2ec4192-8352-41d5-83dd-d207a473ad22"
 repo = "/Users/jakobnissen/code/SSIRegistry/Registry"
 
 [packages]
+094bb4ec-04e4-4f11-bf12-e5749f7dd418 = { name = "Influenza", path = "I/Influenza" }
 75be95bb-60e3-4423-b8b7-0f2a09593d53 = { name = "InfluenzaCore", path = "I/InfluenzaCore" }
