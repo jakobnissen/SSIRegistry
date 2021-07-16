@@ -1,0 +1,5 @@
+name = "SSI"
+uuid = "c2ec4192-8352-41d5-83dd-d207a473ad22"
+repo = "/Users/jakobnissen/code/SSIRegistry/Registry"
+
+[packages]
