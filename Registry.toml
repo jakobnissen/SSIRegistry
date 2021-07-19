@@ -6,3 +6,4 @@ repo = "/Users/jakobnissen/code/SSIRegistry/Registry"
 094bb4ec-04e4-4f11-bf12-e5749f7dd418 = { name = "Influenza", path = "I/Influenza" }
 75be95bb-60e3-4423-b8b7-0f2a09593d53 = { name = "InfluenzaCore", path = "I/InfluenzaCore" }
 7ee4cdc4-8348-4b3e-96a1-d8fae3cd589d = { name = "NCBIInfluenzaData", path = "N/NCBIInfluenzaData" }
+f2dc44fa-c02b-42d6-8c22-04adf9d07357 = { name = "KMATools", path = "K/KMATools" }
