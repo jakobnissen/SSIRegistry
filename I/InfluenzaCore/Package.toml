@@ -1,4 +1,4 @@
 name = "InfluenzaCore"
 uuid = "75be95bb-60e3-4423-b8b7-0f2a09593d53"
-repo = "/Users/jakobnissen/code/SSIRegistry/Influenza/InfluenzaCore"
-subdir = "InfluenzaCore"
+repo = "/Users/jakobnissen/code/SSIRegistry/Influenza.jl"
+subdir = "InfluenzaCore.jl"
