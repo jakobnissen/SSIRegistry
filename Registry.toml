@@ -1,6 +1,6 @@
 name = "SSI"
 uuid = "c2ec4192-8352-41d5-83dd-d207a473ad22"
-repo = "/Users/jakobnissen/code/SSIRegistry/Registry"
+repo = "."
 
 [packages]
 094bb4ec-04e4-4f11-bf12-e5749f7dd418 = { name = "Influenza", path = "I/Influenza" }
