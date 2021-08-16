@@ -1,4 +1,4 @@
 name = "InfluenzaCore"
 uuid = "75be95bb-60e3-4423-b8b7-0f2a09593d53"
-repo = "https://github.com/jakobnissen/Influenza.jl.git"
+repo = "git@github.com:jakobnissen/Influenza.git"
 subdir = "InfluenzaCore.jl"

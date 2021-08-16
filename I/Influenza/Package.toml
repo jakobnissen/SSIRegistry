@@ -1,3 +1,3 @@
 name = "Influenza"
 uuid = "094bb4ec-04e4-4f11-bf12-e5749f7dd418"
-repo = "https://github.com/jakobnissen/Influenza.jl.git"
+repo = "git@github.com:jakobnissen/Influenza.git"
