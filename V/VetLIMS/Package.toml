@@ -1,0 +1,3 @@
+name = "VetLIMS"
+uuid = "b5cebcd4-064d-411e-b7d2-9c254a506bcf"
+repo = "https://github.com/jakobnissen/VetLIMS.jl"
