@@ -5,6 +5,7 @@ repo = "."
 [packages]
 094bb4ec-04e4-4f11-bf12-e5749f7dd418 = { name = "Influenza", path = "I/Influenza" }
 75be95bb-60e3-4423-b8b7-0f2a09593d53 = { name = "InfluenzaCore", path = "I/InfluenzaCore" }
+782da55a-ad1a-4c3c-92ac-19e08d16b292 = { name = "BlastParse", path = "B/BlastParse" }
 7ee4cdc4-8348-4b3e-96a1-d8fae3cd589d = { name = "NCBIInfluenzaData", path = "N/NCBIInfluenzaData" }
 b5cebcd4-064d-411e-b7d2-9c254a506bcf = { name = "VetLIMS", path = "V/VetLIMS" }
 f2dc44fa-c02b-42d6-8c22-04adf9d07357 = { name = "KMATools", path = "K/KMATools" }
