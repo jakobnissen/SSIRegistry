@@ -5,7 +5,6 @@ Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
 ErrorTypes = "7f495686-c6d2-4c77-9e8e-e4c865675f9d"
 FASTX = "c2308a5c-f048-11e8-3e8a-31650f418d12"
 Influenza = "094bb4ec-04e4-4f11-bf12-e5749f7dd418"
-Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
 
 ["0-0.1"]
@@ -13,3 +12,6 @@ InfluenzaCore = "75be95bb-60e3-4423-b8b7-0f2a09593d53"
 
 ["0-0.3.1"]
 Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
+
+["0-0.3.2"]
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"

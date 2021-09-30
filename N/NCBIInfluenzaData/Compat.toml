@@ -1,0 +1,6 @@
+["0.3.3-0"]
+BioSequences = "2"
+CodecZlib = "0.7"
+ErrorTypes = "0.5"
+FASTX = "1.2.0-1"
+Influenza = "0.4"
