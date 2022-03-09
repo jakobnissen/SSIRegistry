@@ -3,4 +3,9 @@ BioSequences = "2"
 CodecZlib = "0.7"
 ErrorTypes = "0.5"
 FASTX = "1.2.0-1"
+
+["0.3.3-0.4.0"]
 Influenza = "0.4"
+
+["0.4.1-0"]
+Influenza = "0.5"
